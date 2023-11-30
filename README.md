@@ -4,7 +4,7 @@ FurnitureStore
 
 
 ![todo App](https://github.com/srinivaslak/FurnitureStore/blob/aadbfa8835d295a6431cf65eac2ace30a4daa2cd/media/images/logo.png)
-
+<img src="https://github.com/srinivaslak/FurnitureStore/blob/aadbfa8835d295a6431cf65eac2ace30a4daa2cd/media/images/logo.png">
 ### Setup
 Update the System
 ```bash
