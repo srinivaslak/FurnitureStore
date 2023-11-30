@@ -77,10 +77,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'furniture',
-        'USER': 'root',
-        'PASSWORD': 'root',
-        'HOST': 'localhost',
-        'PORT': '3307',
+        'USER': 'admin',
+        'PASSWORD': '8500221170',
+        'HOST': 'furniture.c4vjvelvfhhn.us-west-1.rds.amazonaws.com',
+        'PORT': '3306',
 
     }
 }
