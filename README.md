@@ -4,7 +4,7 @@ FurnitureStore
 
 
 ![todo App](https://github.com/srinivaslak/FurnitureStore/blob/aadbfa8835d295a6431cf65eac2ace30a4daa2cd/media/images/logo.png)
-<p align="center"><img src="https://github.com/srinivaslak/FurnitureStore/blob/aadbfa8835d295a6431cf65eac2ace30a4daa2cd/media/images/logo.png" width="50" height="50"></p>
+
 ### Setup
 Update the System
 ```bash
@@ -50,3 +50,5 @@ python3 manage.py runserver
 Once the server is hosted, head over to http://127.0.0.1:8000/todos for the App.
 
 Cheers and Happy Coding :)
+
+![Screenshot (1538)](https://github.com/DebajyotiTalukder2001/Traffic-Monitoring-System/assets/136104351/7ebae89c-f123-4ab6-b41d-b481f293b58f)
