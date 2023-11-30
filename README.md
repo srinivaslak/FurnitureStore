@@ -4,7 +4,7 @@ FurnitureStore
 
 
 ![todo App](media/images/logo.png)
-<p align="center"><img src="media/images/logo.png" width="500" height="300"></p>
+<p align="center"><img src="media/images/logo.png" width="50" height="50"></p>
 ### Setup
 Update the System
 ```bash
