@@ -3,8 +3,8 @@ FurnitureStore
 
 
 
-![todo App](media/images/logo.png)
-<p align="center"><img src="media/images/logo.png" width="50" height="50"></p>
+![todo App](https://github.com/srinivaslak/FurnitureStore/blob/aadbfa8835d295a6431cf65eac2ace30a4daa2cd/media/images/logo.png)
+<p align="center"><img src="https://github.com/srinivaslak/FurnitureStore/blob/aadbfa8835d295a6431cf65eac2ace30a4daa2cd/media/images/logo.png" width="50" height="50"></p>
 ### Setup
 Update the System
 ```bash
