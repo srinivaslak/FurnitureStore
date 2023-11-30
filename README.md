@@ -3,7 +3,7 @@ FurnitureStore
 
 
 
-![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/todoApp.png)
+![todo App](media/images/logo.png)
 ### Setup
 Update the System
 ```bash
